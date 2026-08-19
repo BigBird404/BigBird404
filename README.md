@@ -14,5 +14,14 @@ and product innovation: messy real-world data becoming something a person can
 actually read, trust, and act on — and turning that into something worth building.
 
 
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BigBird404&show_icons=true&layout=compact&theme=gruvbox)
+-->
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BigBird404&show_icons=true&theme=gruvbox)
+-->
+
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/filippo-bortoli)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pippo_bortoli/)
