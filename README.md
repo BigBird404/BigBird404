@@ -9,9 +9,8 @@ CubeSat Portugal program to launch it.
 specializing in Artificial Intelligence and Data Science, with a minor in
 Entrepreneurship and Innovation.
 
-🧭 My interests sit where AI and Data Science meet Human-Computer Interaction
-and product innovation: messy real-world data becoming something a person can
-actually read, trust, and act on — and turning that into something worth building.
+🧭 My interests sit where AI and Data Science meet HCI and product innovation, 
+messy real-world data becoming something a person can actually read, trust, and act on.
 
 
 <!---
