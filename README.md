@@ -2,7 +2,7 @@
 
 🛰️ Working on orbit determination and error analysis at [LISAT]([link](https://www.lisat.space/)),
 a student team at Instituto Superior Técnico building a 1U CubeSat to
-collect maritime AIS signals — competing in the Portuguese Space Agency's
+collect maritime AIS signals competing in the Portuguese Space Agency's
 CubeSat Portugal program to launch it.
 
 🎓 MSc in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt),
